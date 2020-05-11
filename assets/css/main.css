@@ -8610,3 +8610,17 @@ font-size: 1.2em
 #head{
 	font-size: 2em
 }
+
+#mwrap{
+ text-align:center;
+}
+
+#techstack{
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+}
+
+#ico{
+	margin-left: 1em;
+}
