@@ -8619,12 +8619,24 @@ font-size: 1.2em
 	columns: 2;
 	-webkit-columns: 2;
 	-moz-columns: 2;
+	 
+}
+
+#ico1{
+	/* margin-left: 1em;
+	margin-right: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: center; */
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #ico{
-	margin-left: 1em;
+	padding: 1em;
 }
-
  #OL {
 	display: inline;
     list-style: none;
