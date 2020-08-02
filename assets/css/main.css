@@ -8611,10 +8611,25 @@ font-size: 1.2em
 	font-size: 2em
 }
 
+#aboutH{
+	text-align: center;
+}
 #mwrap{
- text-align:center;
+	
+ text-align:left;
 }
 
+
+#ewrap{
+	text-align: left;
+	padding-left: 0px;
+}
+
+#eformat{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
 #techstack{
 	columns: 2;
 	-webkit-columns: 2;
